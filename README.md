@@ -12,4 +12,4 @@ The notebook is downloaded from Google Colab and the model is trained in a GPU a
 
 **Demo**
 
-![](/home/prasanga/Desktop/temp/NepaliPoem-Net/demo.png)
+![](https://github.com/PrasangaDhungel/NepaliPoem-Net/blob/master/demo.png)
